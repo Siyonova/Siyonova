@@ -1,9 +1,18 @@
-# Hi, I'm Siyona 👋
+# Hi, I'm Siyona 
 
 Final-year CSE (AI) student @ IIITDM Kancheepuram  
 Building AI systems, RAG pipelines & data analytics platforms  
 Interested in Data Analytics, AdTech, and AI Engineering roles  
 
+---
+##  Open to Opportunities
+
+✔ AI Engineer Intern  
+✔ Data Analyst Intern  
+✔ GenAI / LLM Roles  
+✔ Technical Support / gTech Roles  
+
+ Open to UAE / India | Immediate Joiner (May 2026)
 ---
 
 ##  What I’m Working On
