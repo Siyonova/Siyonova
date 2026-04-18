@@ -66,9 +66,9 @@ Interested in Data Analytics, AdTech, and AI Engineering roles
 
 ##  Connect with Me
 
--  LinkedIn: [your-link]
--  Email: your-email@gmail.com
--  Portfolio: [your-portfolio-link]
+-  LinkedIn: https://www.linkedin.com/in/siyona-bonam/
+-  Email: siyonabonam26@gmail.com
+-  Portfolio: Coming soon!
 
 ---
 <p align="center">
