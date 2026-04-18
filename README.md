@@ -62,5 +62,13 @@
 - 💻 Portfolio: [your-portfolio-link]
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=AI+Engineer;RAG+Developer;Data+Analytics+Enthusiast;Building+Real+World+Projects" />
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Siyonova&color=blue)
 ⭐ *Always building. Always learning. Always shipping.*
