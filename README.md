@@ -56,7 +56,7 @@ Interested in Data Analytics, AdTech, and AI Engineering roles
 
 ###  Analytics / BI
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mpowerbi,tableau" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i= powerbi,tableau" />
 </p>
 
 ---
