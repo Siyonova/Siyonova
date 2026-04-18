@@ -32,6 +32,42 @@ Interested in Data Analytics, AdTech, and AI Engineering roles
   <img src="https://skillicons.dev/icons?i=aws,firebase" />
 </p>
 
+## 🧰 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,sql" />
+</p>
+
+### 🤖 AI / Machine Learning / GenAI
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" />
+</p>
+
+### 🌐 Web / App Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,fastapi,nodejs" />
+</p>
+
+### ☁️ Database / Cloud / Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,mongodb,aws,gcp" />
+</p>
+
+### ⚙️ Tools / Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
+</p>
+
+### 📊 Analytics / BI
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau" />
+</p>
+
 ---
 
 ##  GitHub Stats
