@@ -22,24 +22,15 @@ Interested in Data Analytics, AdTech, and AI Engineering roles
 
 ---
 
+
 ##  Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,sql,git,github" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,firebase" />
-</p>
-
-## 🧰 Tech Stack
-
-### 👨‍💻 Languages
+###  Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,sql" />
 </p>
 
-### 🤖 AI / Machine Learning / GenAI
+###  AI / Machine Learning / GenAI
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
@@ -48,24 +39,24 @@ Interested in Data Analytics, AdTech, and AI Engineering roles
   <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" />
 </p>
 
-### 🌐 Web / App Development
+###  Web / App Development
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,fastapi,nodejs" />
 </p>
 
-### ☁️ Database / Cloud / Backend
+###  Database / Cloud / Backend
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,mongodb,aws,gcp" />
 </p>
 
-### ⚙️ Tools / Platforms
+###  Tools / Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 </p>
 
-### 📊 Analytics / BI
+###  Analytics / BI
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mpowerbi,tableau" />
 </p>
 
 ---
