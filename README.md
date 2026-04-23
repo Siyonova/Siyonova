@@ -1,4 +1,8 @@
 # Hi, I'm Siyona 
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Available_May_2026-1D9E75?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=Siyonova&color=1D9E75&style=flat&label=Profile+views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/siyona-bonam)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:siyonabonam26@gmail.com)
 
 Final-year Computer Science (AI) student at IIITDM Kancheepuram.
 I build products at the intersection of AI, Data, and Automation — from RAG pipelines and analytics dashboards to RL environments and production-ready tools.
@@ -14,7 +18,6 @@ I enjoy solving real business problems using code, data, and fast execution.
 - Business + Data Hybrid Roles  
 - India 🇮🇳 / UAE 🇦🇪 Opportunities  
 
- Open to UAE / India | Immediate Joiner (May 2026)
 ---
 
 ##  What I’m Working On
