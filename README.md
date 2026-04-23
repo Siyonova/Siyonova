@@ -1,9 +1,9 @@
 # Hi, I'm Siyona 
 
-Final-year CSE (AI) student @ IIITDM Kancheepuram  
-Building AI systems, RAG pipelines & data analytics platforms  
-Interested in Data Analytics, AdTech, and AI Engineering roles  
+Final-year Computer Science (AI) student at IIITDM Kancheepuram.
+I build products at the intersection of AI, Data, and Automation — from RAG pipelines and analytics dashboards to RL environments and production-ready tools.
 
+I enjoy solving real business problems using code, data, and fast execution.
 ---
 ##  Open to Opportunities
 
@@ -125,12 +125,7 @@ Interested in Data Analytics, AdTech, and AI Engineering roles
 
 # Hi, I'm Siyona 👋
 
-Final-year Computer Science (AI) student at **IIITDM Kancheepuram**.  
-I build products at the intersection of **AI, Data, and Automation** — from RAG pipelines and analytics dashboards to RL environments and production-ready tools.
 
-I enjoy solving real business problems using code, data, and fast execution.
-
----
 
 ## 🚀 What I'm Working On
 
