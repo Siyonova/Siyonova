@@ -1,6 +1,6 @@
 # Hi, I'm Siyona 
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-Available_May_2026-1D9E75?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=Siyonova&color=1D9E75&style=flat&label=Profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=Siyonova&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/siyona-bonam)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:siyonabonam26@gmail.com)
 
@@ -112,7 +112,7 @@ I enjoy solving real business problems using code, data, and fast execution.
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Siyonova&color=blue)
+
 
 
  *Always building. Always learning. Always shipping.*
