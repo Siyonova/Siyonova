@@ -91,7 +91,6 @@ I enjoy solving real business problems using code, data, and fast execution.
 
 ## What I'm Working On
 
-[![Ad Campaign Diagnostics](https://github-readme-stats.vercel.app/api/pin/?username=Siyonova&repo=Ad-Campaign-Diagnostics-Platform&theme=tokyonight&hide_border=true)](https://github.com/Siyonova/Ad-Campaign-Diagnostics-Platform)
 [![NYC Airbnb](https://github-readme-stats.vercel.app/api/pin/?username=Siyonova&repo=NYC-Airbnb-Market-Analysis&theme=tokyonight&hide_border=true)](https://github.com/Siyonova/NYC-Airbnb-Market-Analysis)
 [![DataBridgeAnalyzer](https://github-readme-stats.vercel.app/api/pin/?username=Siyonova&repo=DataBridgeAnalyzer&theme=tokyonight&hide_border=true)](https://github.com/Siyonova/DataBridgeAnalyzer)
 
