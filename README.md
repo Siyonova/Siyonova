@@ -130,11 +130,5 @@ I enjoy solving real business problems using code, data, and fast execution.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Siyonova&theme=tokyonight&column=6&margin-w=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/Siyonova/Siyonova/output/github-snake-dark.svg#gh-dark-mode-only)
-![Snake](https://raw.githubusercontent.com/Siyonova/Siyonova/output/github-snake.svg#gh-light-mode-only)
 
 
